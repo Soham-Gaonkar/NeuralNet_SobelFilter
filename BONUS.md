@@ -48,5 +48,3 @@ Welcome to the `nn_multiplefilters.ipynb` notebook, a part of my submission for 
 ## Conclusion
 
 This notebook presents an advanced method for applying multiple image filters using neural networks. By integrating various filter types and leveraging modern deep learning techniques, it offers a robust approach to image enhancement and edge detection.
-
-Feel free to explore the notebook, adjust parameters, and experiment with different images to see how the model performs.
