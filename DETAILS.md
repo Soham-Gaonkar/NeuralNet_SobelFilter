@@ -47,11 +47,4 @@ Post-training, the model is evaluated on the test set. Evaluation metrics includ
 - **Structural Similarity Index (SSIM)**: To assess the similarity between predicted and actual edge maps.
 - **Accuracy Based on Binary Masks**: To measure how well the model identifies edges compared to ground truth.
 
-## Notes on the Code
-
-- **Data Augmentation**: Re-enabling the data augmentation section could improve the model’s ability to generalize by introducing more variations in the training data.
-- **SSIM Calculation**: While currently computed for a single image, consider computing SSIM for multiple images to get a comprehensive evaluation of model performance.
-- **Learning Rate Scheduler**: The exponential decay used for the learning rate is effective for smooth convergence, but you may experiment with different schedules based on training performance.
-
-If you have any questions or need further assistance with specific parts of the code, please feel free to ask!
 
