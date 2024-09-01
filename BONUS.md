@@ -1,4 +1,4 @@
-# What the Hack: Neural Network Multiple Image Filters
+# Explanation of Bonus Part
 
 Welcome to the `nn_multiplefilters.ipynb` notebook, a part of my submission for the "What the Hack" hackathon. This notebook demonstrates a comprehensive approach to applying multiple classical image filters using neural networks. It builds on the foundation of individual filter models to create a unified framework for edge detection and image enhancement.
 
