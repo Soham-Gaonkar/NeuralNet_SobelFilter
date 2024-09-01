@@ -32,6 +32,8 @@ Welcome to the repository for my submission to the "What the Hack" hackathon! Th
 
 For more in-depth explanations and performance metrics, please refer to `DETAILS.md`.
 
+Refer `BONUS.md` for explanation of the bonus part.
+
 ## Conclusion
 
 This project demonstrates how neural networks can learn and replicate classical image processing filters. It extends beyond the basic Sobel filter to include multiple filters, providing a comprehensive approach to neural network-based image processing.
