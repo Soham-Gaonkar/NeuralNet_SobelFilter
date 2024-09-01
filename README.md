@@ -28,6 +28,10 @@ Welcome to the repository for my submission to the "What the Hack" hackathon! Th
 3. Open the Jupyter notebooks in your environment.
 4. Run the cells sequentially to train the models and visualize the results.
 
+## Additional Details 
+
+For more in-depth explanations and performance metrics, please refer to `DETAILS.md`.
+
 ## Conclusion
 
 This project demonstrates how neural networks can learn and replicate classical image processing filters. It extends beyond the basic Sobel filter to include multiple filters, providing a comprehensive approach to neural network-based image processing.
